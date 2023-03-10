@@ -16,7 +16,7 @@ namespace tgame
             GraphicsWindow.KeyDown += GraphicsWindow_KeyDown;
             Turtle.PenUp();
 
-            GraphicsWindow.BrushColor = "Green";
+            GraphicsWindow.BrushColor = "Blue";
             var eat = Shapes.AddRectangle(10, 10);
 
             var x = 200;
