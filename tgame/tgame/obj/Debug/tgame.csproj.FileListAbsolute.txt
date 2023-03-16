@@ -9,3 +9,13 @@ C:\Users\a.kondratieva\source\repos\tgame\tgame\bin\Debug\SmallBasicLibrary.xml
 C:\Users\a.kondratieva\source\repos\tgame\tgame\obj\Debug\tgame.csproj.CopyComplete
 C:\Users\a.kondratieva\source\repos\tgame\tgame\obj\Debug\tgame.exe
 C:\Users\a.kondratieva\source\repos\tgame\tgame\obj\Debug\tgame.pdb
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\bin\Debug\tgame.exe.config
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\bin\Debug\tgame.exe
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\bin\Debug\tgame.pdb
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.csproj.AssemblyReference.cache
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.csproj.CoreCompileInputs.cache
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.csproj.CopyComplete
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.exe
+C:\Users\a.kondratieva\source\repos\tess\tgame\tgame\obj\Debug\tgame.pdb
